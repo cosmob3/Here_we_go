@@ -1,6 +1,12 @@
 <template>
   <div>
-    <h1>This is the index page</h1>
-    
+    <div>
+      <TheHeader />
+    </div>
+    <div>
+      <h1 class="m-5 text-center .bg-danger-subtle">
+        The Index Page
+      </h1>
+    </div>
   </div>
 </template>
